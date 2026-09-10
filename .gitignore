@@ -1,0 +1,14 @@
+WindUI-main.zip
+WindUI-main/
+Roblox-Scripting-UI-main/
+_dq_decomp/
+node_modules/
+*.pem
+!hub_loader/keys/public.pem
+hub_loader/keys/private.pem
+hub_loader/data/licenses.json
+hub_loader/data/workink.json
+hub_loader/data/workink-grants.json
+hub_loader/data/sessions.json
+.DS_Store
+Thumbs.db

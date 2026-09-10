@@ -1,0 +1,6 @@
+node_modules/
+keys/private.pem
+data/sessions.json
+data/licenses.json
+data/workink.json
+data/workink-grants.json

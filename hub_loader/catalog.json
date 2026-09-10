@@ -1,0 +1,134 @@
+{
+  "name": "Kulzlx Hub",
+  "version": "1.0.0",
+  "games": [
+    {
+      "id": "deep_fishing",
+      "name": "Deep Fishing",
+      "placeIds": [132239307080610],
+      "universeIds": [10526853622],
+      "file": "deep_fishing_hub.lua",
+      "label": "deep_fishing_hub"
+    },
+    {
+      "id": "lucky_fish",
+      "name": "Lucky Fish",
+      "placeIds": [112781315318195],
+      "universeIds": [10195997258],
+      "file": "lucky_fish_hub.lua",
+      "label": "lucky_fish_hub"
+    },
+    {
+      "id": "reeled",
+      "name": "Reeled",
+      "placeIds": [137783946150684],
+      "universeIds": [9511524806],
+      "file": "reeled_hub.lua",
+      "label": "reeled_hub"
+    },
+    {
+      "id": "fish_bait",
+      "name": "Fish Bait",
+      "placeIds": [99702578544768],
+      "universeIds": [9330616906],
+      "file": "fish_bait_hub.lua",
+      "label": "fish_bait_hub"
+    },
+    {
+      "id": "legacy_piece",
+      "name": "Legacy Piece",
+      "placeIds": [111097829542198],
+      "universeIds": [9880286438],
+      "file": "legacy_piece_hub.lua",
+      "label": "legacy_piece_hub"
+    },
+    {
+      "id": "steal_egg",
+      "name": "Steal Egg",
+      "placeIds": [107778070777162],
+      "universeIds": [10563114921],
+      "file": "steal_egg_hub.lua",
+      "label": "steal_egg_hub"
+    },
+    {
+      "id": "instant_farm",
+      "name": "Instant Farm / Aura",
+      "placeIds": [122951224417794],
+      "universeIds": [],
+      "file": "instant_farm_hub.lua",
+      "label": "instant_farm_hub"
+    },
+    {
+      "id": "cvp",
+      "name": "Capybaras VS Plants",
+      "placeIds": [104973076655377],
+      "universeIds": [],
+      "file": "capybaras_vs_plants_hub.luau",
+      "label": "cvp_hub"
+    },
+    {
+      "id": "dq",
+      "name": "Dungeon Quest Reborn",
+      "placeIds": [77649408247578],
+      "universeIds": [9931749389],
+      "file": "dq_autofarm.lua",
+      "label": "dq_autofarm"
+    },
+    {
+      "id": "heavyweight",
+      "name": "Heavyweight Fishing",
+      "placeIds": [98502499119821],
+      "universeIds": [8342498724],
+      "file": "heavyweight_autofish.lua",
+      "label": "heavyweight_autofish"
+    },
+    {
+      "id": "bladeball",
+      "name": "Blade Ball",
+      "placeIds": [13772394625, 14732610863, 11630038968],
+      "universeIds": [4777817887],
+      "file": "bladeball_hub.lua",
+      "label": "bladeball_hub"
+    },
+    {
+      "id": "ps99",
+      "name": "Pet Simulator 99",
+      "placeIds": [8737899170, 16498369169, 17577332747],
+      "universeIds": [3317771874],
+      "file": "ps99_hub.lua",
+      "label": "ps99_hub"
+    },
+    {
+      "id": "fisch",
+      "name": "Fisch",
+      "placeIds": [16732694052, 17525464447],
+      "universeIds": [5750914919],
+      "file": "fisch_hub.lua",
+      "label": "fisch_hub"
+    },
+    {
+      "id": "tree_rng",
+      "name": "Tree RNG",
+      "placeIds": [],
+      "universeIds": [],
+      "file": "tree_rng_hub.lua",
+      "label": "tree_rng_hub"
+    },
+    {
+      "id": "heroes_rng",
+      "name": "Heroes RNG",
+      "placeIds": [],
+      "universeIds": [],
+      "file": "heroes_rng_hub.lua",
+      "label": "heroes_rng_hub"
+    },
+    {
+      "id": "sell_ores",
+      "name": "Sell Ores",
+      "placeIds": [],
+      "universeIds": [],
+      "file": "sell_ores_hub.lua",
+      "label": "sell_ores_hub"
+    }
+  ]
+}

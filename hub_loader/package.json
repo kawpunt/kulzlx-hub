@@ -1,0 +1,12 @@
+{
+  "name": "kulzlx-hub-auth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kulzlx Hub RSA auth: /auth/access /hub /cdn /hb /task /model",
+  "main": "server.js",
+  "scripts": {
+    "keys": "node gen-keys.js",
+    "start": "node server.js",
+    "obf": "node obf-loader.js"
+  }
+}

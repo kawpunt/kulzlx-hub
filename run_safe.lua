@@ -1,0 +1,6 @@
+-- Minimal Blade Ball AutoParry (no hub UI)
+local src = readfile("bb_parry_safe.lua")
+assert(type(src) == "string" and #src > 200, "bb_parry_safe.lua missing in Real workspace")
+local fn, err = loadstring(src)
+assert(fn, err)
+fn()
